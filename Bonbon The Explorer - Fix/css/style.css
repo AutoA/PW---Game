@@ -1,0 +1,38 @@
+#container{
+	background-color: white;
+	width: 100%;
+	margin: 15px auto;
+	overflow: hidden;
+}
+
+#menu-paling-atas{
+	background-color: grey;
+	width: 69%;
+	font-size: 30px;
+	margin-top: -10px;
+	border-radius: 10px 10px 10px 10px;
+}
+
+#menu-paling-atas ul{
+	list-style: none;
+	padding: 5px;
+}
+
+#menu-paling-atas ul li{
+	display: inline-block;
+	margin-right: 10px;
+}
+
+#menu-paling-atas ul li:hover{
+	background-color: white;
+}
+
+#menu-paling-atas ul h5{
+	margin-top: 0px;
+	float: right;
+	color: grey;
+}
+
+body{
+	margin-left: 300px;
+}
